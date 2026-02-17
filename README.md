@@ -174,6 +174,7 @@ The model will:
 * Designed for educational and research purposes
 * Student identifier removed for privacy
 * Competition-specific evaluation metrics may differ from standard benchmarks
+* This README.md was made with the assistance of an AI tool
 
 ---
 
