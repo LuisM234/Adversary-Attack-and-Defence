@@ -178,20 +178,9 @@ The model will:
 
 ---
 
-## Future Improvements
-
-* Convolutional architecture (CNN)
-* TRADES or advanced robust training methods
-* Adaptive or targeted attacks
-* Robustness vs. accuracy trade-off analysis
-* AutoAttack evaluation
-
----
-
 ## License
 
-MIT License (or add your preferred license)
-
+MIT License 
 ---
 
 ## Author
